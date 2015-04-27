@@ -11,13 +11,35 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 ## Printed Maps (PDF)
 
-Coming Soon
+![](img/MostAffectedDistricts.png)
 
-## Online Maps
 
-[OSMAnd Data](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.obf) -- Last updated, April 27th, 2AM Nepal Time
+ * Kathmandu
+   * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
+   * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
+ * Bhaktapur
+   * [50-page A4 PDF](http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf) *7mb*
+ * Lalitpur
+   * Patan Area Only, [27-page A4 PDF](http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf) *16mb*
 
-You'll need to download [OSMAnd](https://www.google.com.np/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCcQFjAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.osmand%26hl%3Den&ei=PdU9VZffFpaRuASDnoGYDg&usg=AFQjCNGyuOjx0ExxexumNCw0FLovS88QtQ&bvm=bv.91665533,d.c2E) to use this map; basic instructions on how to use it are [here](http://www.makeuseof.com/tag/osmand-offline-gps-navigation-publish-before-road-trip-article/).
+*Coming Soon*
+
+ * Sindhupalchowk
+ * Dolakha
+ * Gorkha
+ * Rasuwa
+ * Ramechhap
+ * Nuwakot
+ * Kavre
+ * Dhading
+
+Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
+
+## Offline Maps for Android
+
+[OSMAnd Data](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.obf) *Last updated, April 27th, 2AM Nepal Time*
+
+You'll need to download [OSMAnd](https://www.google.com.np/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCcQFjAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.osmand%26hl%3Den&ei=PdU9VZffFpaRuASDnoGYDg&usg=AFQjCNGyuOjx0ExxexumNCw0FLovS88QtQ&bvm=bv.91665533,d.c2E) to use this map; basic instructions on how to use it are [here](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub).
 
 For rescue teams unfamiliar with mapping tools, [Kathmandu Living Labs](http://kathmandulivinglabs.org) is available to train and provide support on how to use maps for navigation and rescue work. Contact the Kathmandu Living Labs Situation Room at 01 620 5000
 
