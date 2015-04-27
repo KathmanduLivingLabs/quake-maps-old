@@ -24,7 +24,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 *Coming Soon*
 
- * Sindhupalchowk
+ * Sindhupalchok
  * Dolakha
  * Gorkha
  * Rasuwa
