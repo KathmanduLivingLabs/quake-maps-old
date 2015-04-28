@@ -37,7 +37,7 @@ Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 
 ## Offline Maps for Android
 
-[OSMAnd Data](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.obf) *Last updated, April 27th, 2AM Nepal Time*
+[OSMAnd Data](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.obf.zip) *Last updated, April 27th, 2AM Nepal Time*
 
 You'll need to download [OSMAnd](https://www.google.com.np/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCcQFjAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnet.osmand%26hl%3Den&ei=PdU9VZffFpaRuASDnoGYDg&usg=AFQjCNGyuOjx0ExxexumNCw0FLovS88QtQ&bvm=bv.91665533,d.c2E) to use this map; basic instructions on how to use it are [here](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub).
 
