@@ -7,8 +7,6 @@ Maps will soon be available for all 11 most affected districts, and updated as f
 
 With prayers for efficient recovery, the Kathmandu Living Labs team.
 
---
-
 
 ## Offline Maps for Android
 
@@ -45,6 +43,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
  * Dhading
 
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
+District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
 ## Looking for other areas?
 Send an email to prabhas@quakemaps.org with the area / village name or [print from here](http://geohacker.in/nepal/)
