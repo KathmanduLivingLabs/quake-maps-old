@@ -20,7 +20,11 @@ OSMAnd is a mapping application that allows you view maps for all of Nepal on An
 ## Affected Areas
 ![](img/MostAffectedDistricts.png)
 
+### Deaths and Injuries due to the earthquake
+
 <iframe style="overflow: hidden; height: 670px" frameborder="0" width="650" height="670" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
+
+Hover on a district to find out more information.
 
 ## Printed Maps of Affected Areas(PDF)
  * Kathmandu
