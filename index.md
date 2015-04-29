@@ -10,16 +10,19 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 ## Offline Maps for Android
 
-[OSMAnd Data for all of Nepal](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.zip) *Last updated, April 28th, 2AM Nepal Time*
+[OSMAnd Data for all of Nepal](https://github.com/KathmanduLivingLabs/osmdata/raw/master/Nepal-latest.zip) *Last updated, April 29th, 5PM Nepal Time*
 
 [Instructions on how to use.](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub)
 
 OSMAnd is a mapping application that allows you view maps for all of Nepal on Android phones. These maps are being updated daily using Satellite imagery by thousands of volunteers online, including edits by more than **2200** volunteers just since April 25th, when the earthquake struck. You will have access to maps for all of Nepal.
 
-## Printed Maps (PDF)
 
+## Affected Areas
 ![](img/MostAffectedDistricts.png)
 
+<iframe style="overflow: hidden" frameborder="0" width="650" height="670" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/"></iframe>
+
+## Printed Maps of Affected Areas(PDF)
  * Kathmandu
    * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
    * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
