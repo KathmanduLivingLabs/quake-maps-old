@@ -27,16 +27,17 @@ OSMAnd is a mapping application that allows you view maps for all of Nepal on An
    * [50-page A4 PDF](http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf) *7mb*
  * Lalitpur
    * Patan Area Only, [27-page A4 PDF](http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf) *16mb*
-   * [Kirtipur](https://cloud.githubusercontent.com/assets/4587826/7359972/5f00326e-ed13-11e4-8dc5-f032ce62a0fc.png)
+   * [Kirtipur](https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png)
    * [Chasukhel](https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png)
  * Sindhupalchok
-   * [Bahrabise](https://cloud.githubusercontent.com/assets/4587826/7359618/58ae6142-ed0e-11e4-80ee-5d4390086f04.png)
+   * [Bahrabise](https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png)
  * Dolakha
-   * [Charikot](https://cloud.githubusercontent.com/assets/4587826/7359627/82e96402-ed0e-11e4-995c-df9f98b2ce55.png)
+   * [Charikot](https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png)
    * [Dolakha](https://cloud.githubusercontent.com/assets/4587826/7360012/da9b7758-ed13-11e4-9eff-4cf6b8b2bee0.png)
  * Gorkha
-   * [Laprak](https://cloud.githubusercontent.com/assets/4587826/7359646/ac16df4e-ed0e-11e4-8b7e-02dc6219e8b8.png)
-   * [Baprak](https://cloud.githubusercontent.com/assets/4587826/7359664/f225b76c-ed0e-11e4-9711-9932747b51f3.png)
+   * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
+   * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
+ * [Kalinchok](https://cloud.githubusercontent.com/assets/371666/7369131/c13f4528-edcc-11e4-87b7-e7bf41424afb.png)
  * Rasuwa
  * Ramechhap
  * Nuwakot
