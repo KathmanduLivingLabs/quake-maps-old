@@ -22,7 +22,7 @@ OSMAnd is a mapping application that allows you view maps for all of Nepal on An
 
 ### Deaths and Injuries due to the earthquake
 
-<iframe frameborder="0" width="650" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
+<iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
 
 Hover on a district to find out more information.
 
