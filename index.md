@@ -17,8 +17,10 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 OSMAnd is a mapping application that allows you view maps for all of Nepal on Android phones. These maps are being updated daily using Satellite imagery by thousands of volunteers online, including edits by more than **2200** volunteers just since April 25th, when the earthquake struck. You will have access to maps for all of Nepal.
 
 
-## Affected Areas
+## Highly Affected Areas
 ![](img/MostAffectedDistricts.png)
+
+The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga to the list of highly affected areas, bringing the total list to 14 districts.
 
 ### Deaths and Injuries due to the earthquake
 
