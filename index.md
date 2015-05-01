@@ -10,7 +10,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 ## Offline Maps for Android
 
-[OSMAnd Data for all of Nepal](http://prabhasp.com/tmp/Nepal-latest.zip) *Last updated, April 30th, 12PM Nepal Time*
+[OSMAnd Data for all of Nepal](http://52.10.79.204/Nepal-latest.zip) *Updated every half an hour*
 
 [Instructions on how to use.](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub)
 
