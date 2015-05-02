@@ -1,7 +1,7 @@
 <link href="css/avenir-white.css" rel="stylesheet" type="text/css"></link>
 # KLL Quake Maps
 
-The objective of this site is to distribute maps extracted from OpenStreetMap data to aid in Earthquake mapping. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
+The object of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
 
 Maps will soon be available for all 11 most affected districts, and updated as frequently as we can. The 11 most affected districts, where a state of emergency has been declared are: Kathmandu, Bhaktapur, Lalitpur, Dhading, Kavre, Nuwakot, Sindhupalchowk, Dolakha, Gorkha, Rasuwa, Ramecchap.
 
@@ -44,9 +44,9 @@ Hover on a district to find out more information.
    * [Charikot](https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png)
    * [Dolakha](https://cloud.githubusercontent.com/assets/4587826/7360012/da9b7758-ed13-11e4-9eff-4cf6b8b2bee0.png)
  * Gorkha
+   * [Arupokhari](http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png)
    * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
    * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
- * [Kalinchok](https://cloud.githubusercontent.com/assets/371666/7369131/c13f4528-edcc-11e4-87b7-e7bf41424afb.png)
  * Rasuwa
  * Ramechhap
  * Nuwakot
@@ -57,7 +57,7 @@ Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
 ## Looking for other areas?
-Send an email to prabhas@quakemaps.org with the area / village name or [print from here](http://geohacker.in/nepal/)
+Send an email to kathmandulivinglabs@gmail.com with the area / village name or [print from here](http://geohacker.in/nepal/)
 
 
 For rescue teams unfamiliar with mapping tools, [Kathmandu Living Labs](http://kathmandulivinglabs.org) is available to train and provide support on how to use maps for navigation and rescue work. Contact the Kathmandu Living Labs Situation Room at 01 620 5000
