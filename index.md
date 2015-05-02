@@ -1,5 +1,9 @@
-<link href="css/avenir-white.css" rel="stylesheet" type="text/css"></link>
-# KLL Quake Maps
+---
+title:  KLL Quake Maps 
+layout: default
+---
+
+# KLL Quake Maps 
 
 The object of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
 
@@ -8,7 +12,7 @@ Maps will soon be available for all 11 most affected districts, and updated as f
 With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 
-## Offline Maps for Android
+# Offline Maps for Android <a id="offline-maps"></a>
 
 [OSMAnd Data for all of Nepal](http://52.10.79.204/Nepal-latest.zip) *Updated every half an hour*
 
@@ -17,7 +21,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 OSMAnd is a mapping application that allows you view maps for all of Nepal on Android phones. These maps are being updated daily using Satellite imagery by thousands of volunteers online, including edits by more than **3800** volunteers just since April 25th, when the earthquake struck. You will have access to maps for all of Nepal.
 
 
-## Highly Affected Areas
+# Highly Affected Areas <a id="affected-areas"></a>
 ![](img/MostAffectedDistricts.png)
 
 The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga to the list of highly affected areas, bringing the total list to 14 districts.
@@ -28,7 +32,7 @@ The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga 
 
 Hover on a district to find out more information.
 
-## Printed Maps of Affected Areas(PDF)
+# Printed Maps of Affected Areas(PDF) <a id="printed-maps"></a>
  * Kathmandu
    * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
    * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
@@ -61,5 +65,3 @@ Send an email to kathmandulivinglabs@gmail.com with the area / village name or [
 
 
 For rescue teams unfamiliar with mapping tools, [Kathmandu Living Labs](http://kathmandulivinglabs.org) is available to train and provide support on how to use maps for navigation and rescue work. Contact the Kathmandu Living Labs Situation Room at 01 620 5000
-
-

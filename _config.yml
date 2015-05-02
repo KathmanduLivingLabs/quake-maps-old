@@ -1,0 +1,12 @@
+highlighter: pygments
+github: [Repository metadata]
+
+name: "KLL Quake Maps"
+description: ""
+
+url: "http://kathmandulivinglabs.github.io/quake-maps/"
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
