@@ -1,8 +1,12 @@
+/* HACKS */
+.height-400 {
+    height: 400px !important;
+}
+
+/* Actual avenir-white.css */
 body {
 	font-family: "Avenir Next", Helvetica, Arial, sans-serif;
-	padding:1em;
 	margin:auto;
-	max-width:42em;
 	background:#fefefe;
 }
 
@@ -10,33 +14,38 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
-h1 {
+h1, h1 a {
 	color: #000000;
 	font-size: 28pt;
 }
 
 h2 {
 	border-bottom: 1px solid #CCCCCC;
+}
+h2 , h2 a {
 	color: #000000;
 	font-size: 24px;
 }
 
-h3 {
+h3, h3 a {
 	font-size: 18px;
 }
 
-h4 {
+h4, h4 a {
 	font-size: 16px;
 }
 
-h5 {
+h5, h5 a {
 	font-size: 14px;
 }
 
-h6 {
+h6, h6 a {
 	color: #777777;
 	background-color: inherit;
 	font-size: 14px;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
 }
 
 hr {
