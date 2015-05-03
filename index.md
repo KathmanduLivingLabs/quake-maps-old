@@ -3,16 +3,19 @@
 
 The object of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
 
-Maps will soon be available for all 11 most affected districts, and updated as frequently as we can. The 11 most affected districts, where a state of emergency has been declared are: Kathmandu, Bhaktapur, Lalitpur, Dhading, Kavre, Nuwakot, Sindhupalchowk, Dolakha, Gorkha, Rasuwa, Ramecchap.
+What you will find on this site:
+ * Offline Maps -- Download the latest map produced by OpenStreetMap volunteers around the world on your Android or iPhone.
+ * Affected Areas -- See a visualization of all 14 most affected districts as declared by the government, as well as maps of deaths, injuries, fully and partially destroyed houses.
+ * Paper Maps -- Download and Print paper maps of highly affected districts, as well as particular VDCs. Contact us for maps of VDCs not yet present.
 
 With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 
-## Offline Maps for Android
+## Offline Maps for Smartphone
 
 [OSMAnd Data for all of Nepal](http://52.10.79.204/Nepal-latest.zip) *Updated every half an hour*
 
-[Instructions on how to use.](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub)
+[Instructions on how to use this data on Android are here.](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub) On iPhone, just download the OSMAnd application, which updates its Nepal data every day at the moment.
 
 OSMAnd is a mapping application that allows you view maps for all of Nepal on Android phones. These maps are being updated daily using Satellite imagery by thousands of volunteers online, including edits by more than **3800** volunteers just since April 25th, when the earthquake struck. You will have access to maps for all of Nepal.
 
