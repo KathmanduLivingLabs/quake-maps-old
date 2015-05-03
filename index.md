@@ -1,4 +1,7 @@
-<link href="css/avenir-white.css" rel="stylesheet" type="text/css"></link>
+---
+title:  KLL Quake Maps 
+layout: default
+---
 # QuakeRelief.info
 *Maps and information to asisst in Earthquake relief, from Kathmandu Living Labs.*
 
@@ -13,7 +16,7 @@ What you will find on this site:
 With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 
-## Offline Maps for Smartphone
+## <a id="offline-maps">Offline Maps for Smartphone</a>
 
 [OSMAnd Data for all of Nepal](http://52.10.79.204/Nepal-latest.zip) *Updated every half an hour*
 
@@ -22,7 +25,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 OSMAnd is a mapping application that allows you view maps for all of Nepal on Android phones. These maps are being updated daily using Satellite imagery by thousands of volunteers online, including edits by more than **3800** volunteers just since April 25th, when the earthquake struck. You will have access to maps for all of Nepal.
 
 
-## Highly Affected Areas
+## <a id="affected-areas">Highly Affected Areas</a>
 ![](img/MostAffectedDistricts.png)
 
 The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga to the list of highly affected areas, bringing the total list to 14 districts.
@@ -33,7 +36,7 @@ The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga 
 
 Hover on a district to find out more information.
 
-## Printed Maps of Affected Areas(PDF)
+## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
    * [District A2](img/Kathmandu.png)
    * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
