@@ -5,6 +5,7 @@
 The object of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
 
 What you will find on this site:
+
  * Offline Maps -- Download the latest map produced by OpenStreetMap volunteers around the world on your Android or iPhone.
  * Affected Areas -- See a visualization of all 14 most affected districts as declared by the government, as well as maps of deaths, injuries, fully and partially destroyed houses.
  * Paper Maps -- Download and Print paper maps of highly affected districts, as well as particular VDCs. Contact us for maps of VDCs not yet present.
