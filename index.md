@@ -30,7 +30,7 @@ OSMAnd is a mapping application that allows you view maps for all of Nepal on An
 
 The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga to the list of highly affected areas, bringing the total list to 14 districts.
 
-### Deaths and Injuries due to the earthquake
+### <a id="deaths-injuries">Deaths and Injuries due to the earthquake</a>
 
 <iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
 
