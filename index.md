@@ -38,45 +38,45 @@ Hover on a district to find out more information.
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
-   * [District A2](img/Kathmandu.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Kathmandu.png)
    * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
    * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
  * Bhaktapur
-   * [District A2](img/Bhaktapur.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Bhaktapur.png)
    * [50-page A4 PDF](http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf) *7mb*
  * Lalitpur
-   * [District A2](img/Lalitpur.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Lalitpur.png)
    * Patan Area Only, [27-page A4 PDF](http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf) *16mb*
    * [Kirtipur](https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png)
    * [Chasukhel](https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png)
  * Sindhupalchok
-   * [District A2](img/Sindhupalchok.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Sindhupalchok.png)
    * [Bahrabise](https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png)
  * Dolakha
-   * [District A2](img/Dolakha.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Dolakha.png)
    * [Charikot](https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png)
    * [Dolakha](https://cloud.githubusercontent.com/assets/4587826/7360012/da9b7758-ed13-11e4-9eff-4cf6b8b2bee0.png)
  * Gorkha
-   * [District A2](img/Gorkha.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Gorkha.png)
    * [Arupokhari](http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png)
    * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
    * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
  * Rasuwa
-   * [District A2](img/Rasuwa.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Rasuwa.png)
  * Ramechhap
-   * [District A2](img/Ramecchap.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Ramecchap.png)
  * Nuwakot
-   * [District A2](img/Nuwakot.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Nuwakot.png)
  * Kavre
-   * [District A2](img/Kabhrepalanchok.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Kabhrepalanchok.png)
  * Dhading
-   * [District A2](img/Dhading.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Dhading.png)
  * Makwanpur
-   * [District A2](img/Makwanpur.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Makwanpur.png)
  * Okhaldhunga
-   * [District A2](img/Okhaldhunga.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Okhaldhunga.png)
  * Sindhuli
-   * [District A2](img/Sindhuli.png)
+   * [District A2](http://54.151.129.0/quake-maps/img/Sindhuli.png)
 
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
