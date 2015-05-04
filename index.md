@@ -38,7 +38,7 @@ Hover on a district to find out more information.
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
-   * [![District A2](http://54.151.129.0/quake-maps/img/img/Kathmandu.png)](http://54.151.129.0/quake-maps/img/Kathmandu.png)
+   * [![District A2](http://54.151.129.0/quake-maps/img/thumbs/Kathmandu.png)](http://54.151.129.0/quake-maps/img/Kathmandu.png)
    * [32-page A4 PDF](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub), *15mb*
    * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
  * Bhaktapur
@@ -62,7 +62,7 @@ Hover on a district to find out more information.
    * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
    * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
  * Rasuwa
-   * [![District A2](http://54.151.129.0/quake-maps/img/Rasuwa.png)](http://54.151.129.0/quake-maps/img/Rasuwa.png)
+   * [![District A2](http://54.151.129.0/quake-maps/img/thumbs/Rasuwa.png)](http://54.151.129.0/quake-maps/img/Rasuwa.png)
  * Ramechhap
    * [![District A2](http://54.151.129.0/quake-maps/img/thumbs/Ramecchap.png)](http://54.151.129.0/quake-maps/img/Ramecchap.png)
  * Nuwakot
