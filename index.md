@@ -34,6 +34,10 @@ The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga 
 
 <iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
 
+### <a id="intensity-population-household"Intensity/Population/Household in VDCs of Affected Districts</a>
+
+<iframe class="height-500" frameborder="0" width="650" height="500" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
+
 Hover on a district to find out more information.
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
