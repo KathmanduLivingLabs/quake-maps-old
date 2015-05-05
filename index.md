@@ -38,7 +38,7 @@ Hover on a district to find out more information.
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
-   * [![District A2](http://54.151.129.0/quake-maps/img/thumbs/Kathmandu.png)](http://54.151.129.0/quake-maps/img/Kathmandu.png) Kathmandu District - A2
+   * [![District A2](http://54.151.129.0/quake-maps/img/thumbs/Kathmandu.png)](http://54.151.129.0/quake-maps/img/Kathmandu.png)<br/> Kathmandu District - A2
    * [32-page A4 PDF](http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *15mb*
    * [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more formats available [here](http://www.maposmatic.org/maps/163571)
  * Bhaktapur
