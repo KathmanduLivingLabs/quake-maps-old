@@ -36,10 +36,6 @@ The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga 
 
 Hover on a district to find out more information.
 
-### <a id="deaths-injuries">Intensity/Population/Household Map</a>
-
-<iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
-
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
    * [Kathmandu District - A2<br/>![District A2](http://54.151.129.0/quake-maps/img/thumbs/Kathmandu.png)](http://54.151.129.0/quake-maps/img/Kathmandu.png)
