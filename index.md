@@ -32,9 +32,15 @@ The government has now added the districts Makwanpur, Sindhuli, and Okhaldhunga 
 
 ### <a id="deaths-injuries">Deaths and Injuries due to the earthquake</a>
 
-<iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
+<iframe class="height-400" frameborder="0" width="670" height="400" scrolling="no" src="http://kathmandulivinglabs.github.io/nepal-casualty-map/iframe.html"></iframe>
 
 Hover on a district to find out more information.
+
+### <a id="intensity-population-household">Intensity/Population/Household in VDCs of Affected Districts</a>
+
+<iframe frameborder="0" width="670" height="500" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
+Zoom in to identify VDC Names.
+
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
