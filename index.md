@@ -1,4 +1,3 @@
-
 ---
 title:  KLL Quake Maps 
 layout: default
