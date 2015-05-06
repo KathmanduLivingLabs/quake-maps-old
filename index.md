@@ -38,7 +38,7 @@ Hover on a district to find out more information.
 
 ### <a id="intensity-population-household">Intensity/Population/Household in VDCs of Affected Districts</a>
 
-<iframe frameborder="0" width="670" height="500" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
+<iframe frameborder="0" width="670" height="500" scrolling="no" src="http://meghastha.github.io/affected-districts/index.html"></iframe>
 Zoom in to identify VDC Names.
 
 
