@@ -61,7 +61,7 @@ Zoom in to identify VDC Names.
    * [Bahrabise](https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png)
    * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Gumba.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Gumba.png)
    * [Fulpingkatti VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Fulpingkatti.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png)  
-   * [Tatopani VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Tatopani.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Tatopani.png)  
+   * [Tatopani VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Tatopani.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-inframeo/VDC_Maps/Sindhupalchok_Tatopani.png)  
    * [Choutara VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Choutara.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png)  
    * [Listikot VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Listikot.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Listikot.png)  
    * [Pangtang VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Sindhupalchok_Pangtang.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Pangtang.png)
@@ -79,7 +79,7 @@ Zoom in to identify VDC Names.
  * Rasuwa
    * [Rasuwa District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png)](http://45.55.246.231/quake-maps/img/Rasuwa.png) 
  * Ramechhap
-   * [Ramechhap District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Ramecchap.png)](http://45.55.246.231/quake-maps/img/Ramecchap.png) 
+   * [Ramechhap District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Ramechhap.png)](http://45.55.246.231/quake-maps/img/Ramecchap.png) 
  * Nuwakot
    * [Nuwakot District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Nuwakot.png)](http://45.55.246.231/quake-maps/img/Nuwakot.png) 
  * Kavre
