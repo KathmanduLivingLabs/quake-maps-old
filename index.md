@@ -98,11 +98,11 @@ Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
 Settlement Maps from ICIMOD:<br/>
-* [Dolakha<br/>![Dolakha](img/thumbs/dolakha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
-* [Gorkha<br/>![Gorkha](img/thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
-* [Nuwakot<br/>![Nuwakot](img/thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
-* [Rasuwa<br/>![Rasuwa](img/thumbs/rasuwa_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg)
-* [Sindhupalchok<br/>![Sindhupalchok](img/thumbs/sindhupalchok_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/sindhupalchok_settlement.jpg)
+* [Dolakha<br/>![Dolakha](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/dolakha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
+* [Gorkha<br/>![Gorkha](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
+* [Nuwakot<br/>![Nuwakot](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
+* [Rasuwa<br/>![Rasuwa](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/rasuwa_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg)
+* [Sindhupalchok<br/>![Sindhupalchok](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/sindhupalchok_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/sindhupalchok_settlement.jpg)
 <br/>(Source: [[Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
 
 ## Looking for other areas?
