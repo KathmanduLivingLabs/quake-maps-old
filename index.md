@@ -53,7 +53,7 @@ Zoom in to identify VDC Names.
  * Lalitpur
    * [Lalitpur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png)](http://45.55.246.231/quake-maps/img/Lalitpur.png)
    * Patan Area Only, [27-page A4 PDF](http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf) *16mb*
-+  * [Nallu VDC - Lalitpur<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lalitpur_Nallu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png)
+   * [Nallu VDC - Lalitpur<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lalitpur_Nallu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png)
    * [Kirtipur](https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png)
    * [Chasukhel](https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png)
  * Sindhupalchok
@@ -69,8 +69,8 @@ Zoom in to identify VDC Names.
    * [Dolakha District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png)](http://45.55.246.231/quake-maps/img/Dolakha.png) 
    * [Charikot](https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png)
    * [Dolakha](https://cloud.githubusercontent.com/assets/4587826/7360012/da9b7758-ed13-11e4-9eff-4cf6b8b2bee0.png)
-   * [Jhape VDC - Lalitpur<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/VDC_Maps/Dolakha_Jhape.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Jhape.png)
-   * [Lamabagar VDC - Lalitpur<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Dolakha_Lamabagar.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png)
+   * [Jhape VDC - Dolakha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/VDC_Maps/Dolakha_Jhape.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Jhape.png)
+   * [Lamabagar VDC - Dolakha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Dolakha_Lamabagar.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png)
  * Gorkha
    * [Gorkha District -A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Gorkha.png)](http://45.55.246.231/quake-maps/img/Gorkha.png) 
    * [Arupokhari](http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png)
