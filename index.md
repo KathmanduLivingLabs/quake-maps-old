@@ -18,7 +18,7 @@ With prayers for efficient recovery, the Kathmandu Living Labs team.
 
 ## <a id="offline-maps">Offline Maps for Smartphone</a>
 
-[OSMAnd Data for all of Nepal](http://52.10.79.204/Nepal-latest.zip) *Updated every half an hour*
+[OSMAnd Data for all of Nepal](http://45.55.246.231/quake-maps/Nepal-latest.zip) *Updated every hour*
 
 [Instructions on how to use this data on Android are here.](https://docs.google.com/document/d/1eQnUxurakreVotXz4wbt194Tn6fJjoSSMME66rokTwc/pub) On iPhone, just download the OSMAnd application, which updates its Nepal data every day at the moment.
 
